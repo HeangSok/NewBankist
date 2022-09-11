@@ -1,3 +1,3 @@
 # NewBankist
 
-**Learn from**: 
+**Learn from**: *[Jonas Schmedtmann](https://twitter.com/jonasschmedtman)*
